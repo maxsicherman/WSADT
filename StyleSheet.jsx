@@ -1,9 +1,8 @@
 import { StyleSheet } from 'react-native';
-import Colors from './Colors';
 
 export const sharedStyles = StyleSheet.create({
     backgroundStyle: {
-        backgroundColor: 'whitesmoke',
+        backgroundColor: 'lavender',
         flex: 1,
         justifyContent: 'center'
     },

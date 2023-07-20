@@ -35,34 +35,34 @@ export const outcome_list = [
     "do HH w work besties🍻",
     "lift w Lord Farquaad🏋️‍♀️",
     "watch sunset w Max🌆",
-    "TV Time w Max🥸",
+    "talk w Max👩‍❤️‍💋‍👨",
     "brunch w Hailey😋",
     "vacay w Max✈️",
     "go wine tasting🍷👩‍❤️‍💋‍👨",
     "visit Parents & Cookie👨‍👩‍👧‍👧🐶",
     "clerb w Rachie🪩",
     "call da roomiez❤️",
-    "hit da Marina w Meg😈",
+    "get silly w Meg😈",
     "call backlot❤️",
 ]
 
 export const pix = [
     require("./images/run.jpg"),
-    require("./images/default.jpg"),  // TODO
-    require("./images/default.jpg"),  // TODO
+    require("./images/TanyaAndBrian.jpg"), 
+    require("./images/philz.jpg"), 
     require("./images/cuddlez.jpg"),
-    require("./images/default.jpg"),  // TODO
-    require("./images/default.jpg"),  // TODO
-    require("./images/default.jpg"),  // TODO
-    require("./images/default.jpg"),  // TODO
+    require("./images/workBesties.jpg"),  
+    require("./images/farquaad.jpg"), 
+    require("./images/sunset.jpg"),
+    require("./images/first_night.jpg"), 
     require("./images/hailey.jpg"),
     require("./images/vacay.jpg"),
     require("./images/vineyard.jpg"),
-    require("./images/default.jpg"),  // TODO
+    require("./images/famNcookie.jpg"), 
     require("./images/rachie.jpg"),
-    require("./images/default.jpg"),  // TODO
-    require("./images/default.jpg"),  // TODO
-    require("./images/default.jpg"),  // TODO
+    require("./images/roomiez.jpg"), 
+    require("./images/megParty.jpg"), 
+    require("./images/backlot.jpg"),
 ];
 
 export const outcomes = {
